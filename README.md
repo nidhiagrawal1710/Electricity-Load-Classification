@@ -187,16 +187,6 @@ The confusion matrix shows how many observations were correctly classified and w
 - Medium_Load and Maximum_Load were more difficult to distinguish, with F1-scores of 0.49 and 0.39, respectively.
 - The difference between accuracy and Macro F1-score indicates that overall accuracy alone does not fully represent performance across all load categories.
 
-## 12. Limitations and Future Improvements
-
-Potential improvements include:
-
-- Hyperparameter tuning using the training and validation periods.
-- Additional time-based and lag features, designed without using future information.
-- Further investigation of confusion between Medium_Load and Maximum_Load.
-- Evaluation of additional classification algorithms.
-- Testing on a later time period to assess performance under changing consumption patterns.
-
 Any further model tuning should use training and validation data, not the December test results.
 
 ## 13. How to Run the Project

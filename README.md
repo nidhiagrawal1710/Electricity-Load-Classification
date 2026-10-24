@@ -189,7 +189,7 @@ The confusion matrix shows how many observations were correctly classified and w
 
 Any further model tuning should use training and validation data, not the December test results.
 
-## 13. How to Run the Project
+## 12. How to Run the Project
 
 1. Clone or download this repository.
 2. Install the required Python libraries:
@@ -209,7 +209,7 @@ Any further model tuning should use training and validation data, not the Decemb
 6. Update the CSV filename in the data-loading cell.
 7. Run all cells from top to bottom.
 
-## 14. Conclusion
+## 13. Conclusion
 
 This project demonstrates a complete machine learning workflow for electricity load-type classification, from data preprocessing and exploratory analysis to model comparison and final testing.
 
